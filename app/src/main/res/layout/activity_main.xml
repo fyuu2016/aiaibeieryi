@@ -10,7 +10,8 @@
     tools:context="com.example.cyyz.myjenkinstest.MainActivity">
 
     <TextView
+        android:id="@+id/tv_holleworldd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="你好 世界!" />
+        android:text="holleworldd!" />
 </RelativeLayout>
