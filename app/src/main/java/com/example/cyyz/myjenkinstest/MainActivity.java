@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
     @OnClick(R.id.tv_holleworldd)
     public void onClick() {
-        tvHolleworldd.setText("哈哈哈哈");
+        tvHolleworldd.setText("test2");
     }
 }
